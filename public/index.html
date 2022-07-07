@@ -10,19 +10,19 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/styles.css">
 
-  <title>Budget Tracker</title>
+  <title>TravelBalance</title>
 </head>
 <body>
   <div class="wrapper">
     <div class="total">
-      <div class="total">Your total is: $<span id="total">0</span></div>
+      <h1 class="total display-4 font-weight-bold">Balance $<span id="total">0</span></h1>
     </div>
 
     <div class="form">
       <input type="text" id="t-name" placeholder="Name of transaction" />
       <input type="number" min="0" id="t-amount" placeholder="Transaction amount" />
-      <button id="add-btn"><i class="fa fa-plus buttons"></i> Add Funds</button>
-      <button id="sub-btn"><i class="fa fa-minus"></i> Subtract Funds</button>
+      <button id="add-btn"><i class="fa fa-plus buttons"></i> Income</button>
+      <button id="sub-btn"><i class="fa fa-minus"></i> Expense</button>
       <p class="error"></p>
     </div>
 
