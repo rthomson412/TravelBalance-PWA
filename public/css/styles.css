@@ -1,5 +1,5 @@
 body {
-  font-size: 130%;
+  font-size: 120%;
   font-family: Arial;
 }
 
@@ -15,7 +15,7 @@ table {
 td, th {
   border: 1.5px solid #dddddd;
   text-align: left;
-  padding: 8px;
+  padding: 7px;
 }
 
 tr:nth-child(even) {
@@ -28,7 +28,7 @@ tr:nth-child(even) {
 
 .wrapper {
   margin: 0 auto;
-  max-width: 825px;
+  max-width: 820px;
   text-align: center;
 }
 
