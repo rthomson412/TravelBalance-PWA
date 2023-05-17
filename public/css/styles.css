@@ -23,7 +23,7 @@ tr:nth-child(even) {
 }
 
 .error {
-  color: orange;
+  color: red;
 }
 
 .wrapper {
