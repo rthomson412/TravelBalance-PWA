@@ -13,13 +13,13 @@ table {
 }
 
 td, th {
-  border: 1.5px solid #dddddd;
+  border: 1.5px solid #ddddd;
   text-align: left;
   padding: 7px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #ddddd;
 }
 
 .error {
