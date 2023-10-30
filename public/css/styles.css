@@ -27,7 +27,7 @@ tr:nth-child(even) {
 }
 
 .wrapper {
-  margin: 0 auto;
+  margin: 1 auto;
   max-width: 820px;
   text-align: center;
 }
