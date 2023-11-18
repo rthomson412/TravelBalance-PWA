@@ -47,5 +47,5 @@ tr:nth-child(even) {
   max-height: 200px;
   overflow: auto;
   width: 100%;
-  margin: 1 auto;
+  margin: 2 auto;
 }
